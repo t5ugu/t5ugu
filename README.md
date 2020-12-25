@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! I'm t5ugu!
+
+Thanks for interested in me.  
+But I can't do anything for you :(
+
+If you look at [my Twitter](http://twitter.com/t5ugu), you can see what I've done.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=t5ugu)](https://github.com/anuraghazra/github-readme-stats)
+
+Thank you.
