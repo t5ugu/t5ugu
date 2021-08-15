@@ -20,7 +20,13 @@ Hello! I'm t5ugu!
 Thanks for interested in me.  
 But I can't do anything for you :(
 
-If you look at [my Twitter](http://twitter.com/t5ugu1), you can see what I've done.
+🔭 I’m currently working on [MCDU](https://github.com/ChenCMD/MC-Datapack-Utility)
+
+🌱 I’m currently learning English, Java, TypeScript.
+
+🤔 I’m looking for help with to develop [secondary Clayium](https://github.com/t5ugu/clayium)!
+
+📫 Reach me: [Twitter](https://twitter.com/t5ugu_)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=t5ugu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t5ugu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
