@@ -20,11 +20,11 @@ Hello! I'm t5ugu!
 Thanks for interested in me.  
 But I can't do anything for you :(
 
-🔭 I’m currently working on [MCDU](https://github.com/ChenCMD/MC-Datapack-Utility)
+🔭 I’m currently working on [MCDU](https://github.com/ChenCMD/MC-Datapack-Utility), [Clayium](https://github.com/t5ugu/clayium)
 
 🌱 I’m currently learning English, Java, TypeScript.
 
-🤔 I’m looking for help with to develop [secondary Clayium](https://github.com/t5ugu/clayium)!
+🤔 I’m looking for help with Modding!
 
 📫 Reach me: [Twitter](https://twitter.com/t5ugu_)
 
