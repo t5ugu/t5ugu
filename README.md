@@ -26,8 +26,6 @@ But I can't do anything for you :(
 
 🤔 I’m looking for help with Modding!
 
-📫 Reach me: [Twitter](https://twitter.com/t5ugu_)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=t5ugu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t5ugu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
